@@ -1,0 +1,71 @@
+What & Why Power BI The Analytics & Business Intelligence (ABI) software
+
+
+Power BI is Microsoft's platform for Data Analytics and Business Intelligence.
+
+Power BI is one of the most widely used Analytics & Business Intelligence (ABI) software packages.
+
+Power BI is used to create shareable interactive online boards called Reports that communicate insights from data through visualisations. It can read data from various different data sources, refresh the data it displays, and is well-suited for handling very large volumes of data. 
+
+There are other types of similar ABI software that are commercially available. Tableau, which is widely used, is Power BI's main competitor.
+
+
+Power BI is Microsoft's platform for Analytics and Business Intelligence (ABI) - hence its name Power BI. It allows users to read data from a data source, visualise it, and share real-time insights from it with other users as an interactive Report or Dashboard. 
+
+
+Business Intelligence Software
+
+Power BI is one of the most widely used Analytics and Business Intelligence (ABI) software packages alongside Tableau, which is Power BI's main competitor.
+
+There is also other commercially available ABI software, each of which has its own strengths and benefits. Fundamentally, all ABI software are used for visualising and sharing insights from data,
+
+One factor that contributes to Power BI's popularity is its integration into the Microsoft ecosystem. This makes it readily adaptable for customers who already use Microsoft products and services.
+
+
+Compared to other data analysis tools, such as MS Excel, some of Power BI's main merits are outlined below.
+
+Compatibility with a Variety of Data Sources
+Power BI can connect to and read data from a range of data sources that businesses and organisations use. This includes (but is not limited to):  
+
+* Local & SharePoint files, such as CSV and Excel files
+Databases, both SQL & No-SQL types
+Microsoft Azure Services
+Online Services, such as Sharepoint Lists,
+Websites
+Power BI can connect to multiple different data sources simultaneously, and their data is combined together in visualisations.
+
+
+* Up-to-date Data
+Power BI is can refresh the data it displays on its visualisations, by refreshing the data it reads from the data source. This permits up-to-date insights to be displayed on the visualisations.
+
+Refreshes of connected data sources can be done either manually or scheduled. The frequency at which this occurs is dependent on the data source and the type of Power BI License that the user holds. Data refreshes can be as frequent as every second (for databases for users with a Premium Capacity license).
+
+
+* Large Data Capacity
+Power BI is well suited for handling enterprise-level volumes of data. It can easily handle datasets with millions of rows of data. By comparison, Excel will typically start to struggle when processing a sheet with over 10,000 rows.
+
+
+* Easy Data Visualisation
+Power BI boasts an easy-to-use interface which makes data visualisation easy and accessible even to non-specialists.
+It offers a wide selection of interactive visualisations to choose from, catering to a variety of data types.
+It hosts a range of inbuilt visualisations, which include:
+
+Column Charts & Bar Charts
+Line Charts
+Scatter Charts
+Maps
+Cards & gauges
+Additionally, users can import additional visualizations through Microsoft's online marketplace, AppSource, or create their own custom visualizations using Python or R code.
+
+
+* Securely Share Insights
+Power BI is optimised for sharing data insights!
+
+It allows users to easily create visualisations on interactive Reports and Dashboards, which are shared securely online with other users within the organisation.
+
+
+* Competitive Pricing
+Power BI offers different types of licenses, a free license or two different paid license offers. This pricing model makes it widely accessible to a wide range of users.
+
+
+Power BI cannot write data to a data source, and can only read data from a data source.

@@ -1,0 +1,5 @@
+Reports vs Dashboards
+
+A Report is a collection of interactive data visualisations on one or more online pages that present data insights into a single topic or area of focus.
+
+A Dashboard consolidates key visualizations from multiple Reports and allows users to access the underlying Reports by clicking the visualizations.
