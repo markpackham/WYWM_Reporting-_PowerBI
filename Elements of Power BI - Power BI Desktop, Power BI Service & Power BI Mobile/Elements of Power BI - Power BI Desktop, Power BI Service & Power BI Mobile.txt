@@ -1,0 +1,7 @@
+Elements of Power BI - Power BI Desktop, Power BI Service & Power BI Mobile
+
+Power BI Desktop is used extensively by data analysts and data scientists because it is in Report building, where the number crunching, analysis, and data visualisation is performed.
+
+Power BI service is not only used by data analysts and data scientists to share their reports (and to create and share dashboards) but also by any user in an organisation who wishes to consume the reports - this could be anyone within a business who uses data in their decision-making.
+
+Power BI Mobile is typically used by users who need mobile access to reports and dashboards. This could be sales people who wish to showcase data to a client in a meeting, or company management who require access to key insights at all times.

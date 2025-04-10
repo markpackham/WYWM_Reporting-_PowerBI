@@ -1,5 +1,10 @@
 Reports vs Dashboards
 
 A Report is a collection of interactive data visualisations on one or more online pages that present data insights into a single topic or area of focus.
+A Report in Power BI is what you might already call a Dashboard - an interactive board of visualisations that present data insights. Reports can have multiple pages in Power BI. An example of a Power BI Report was given in the preceding lesson.
+A Report generally serves to give focused insight into a single topic or area of focus. E.g. Sales data, or Employment data.
+
 
 A Dashboard consolidates key visualizations from multiple Reports and allows users to access the underlying Reports by clicking the visualizations.
+A Dashboard in Power BI is a single page that consolidates and displays selected visualisations from multiple Power BI Reports and give users access to those reports.
+A Dashboard is typically used to give a summary of the key insights from Reports. Dashboard viewers can click on the individual visualisations, to access and view the underlying Report from which the visualisation was taken. 

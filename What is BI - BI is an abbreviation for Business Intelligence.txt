@@ -1,0 +1,33 @@
+What is BI - BI is an abbreviation for Business Intelligence
+
+
+Business Intelligence is a collection of processes, which includes elements of data engineering and data analytics.
+
+Data Analytics is its own process.
+
+BI typically focuses on Descriptive and Predictive analytics whereas the data analytics process encompasses Diagnostic and Prescriptive analytics, in addition to Descriptive and Predictive analytics.
+
+
+Business Intelligence (BI) is a collection of MULTIPLE processes, which combines elements from different disciplines, including data engineering and data analytics to gather and extract insights from a business or organization's data. It focused on collecting, analyzing, and reporting insights to enable data-driven decision-making.
+
+As opposed to data analytics, Business Intelligence (BI) typically focuses on summarizing data (aka descriptive analytics) and forecasting based on historical data (aka predictive analytics).
+
+It is worth emphasizing that a core aspect of Business Intelligence (BI) is the communication of comprehensible insights. Due to this, ABI software like Power BI focuses on providing interactive visual reports and dashboards as a way of delivering this information. 
+
+Example: BI in Retailing
+A retailer might use Business Intelligence to track sales data across its various stores and product lines. They might use this data to identify patterns and trends, such as which products are selling the most and which stores are performing the best. This information can then be used to make decisions about inventory management, marketing strategies, and store operations.
+
+
+Business Intelligence (BI) is a collection of processes, which combines elements from different disciplines, including data engineering and data analytics to gather and extract insights from a business or organization's data. It focused on collecting, analyzing, and reporting insights to enable data-driven decision-making.
+
+
+Data Analytics - As opposed to data analytics, Business Intelligence (BI) typically focuses on summarizing data (aka descriptive analytics) and forecasting based on historical data (aka predictive analytics).
+
+It is worth emphasizing that a core aspect of Business Intelligence (BI) is the communication of comprehensible insights. Due to this, ABI software like Power BI focuses on providing interactive visual reports and dashboards as a way of delivering this information. 
+
+Example: BI in Retailing
+A retailer might use Business Intelligence to track sales data across its various stores and product lines. They might use this data to identify patterns and trends, such as which products are selling the most and which stores are performing the best. This information can then be used to make decisions about inventory management, marketing strategies, and store operations.
+
+
+
+BI typically focuses on Descriptive and Predictive analytics whereas the data analytics process encompasses Diagnostic and Prescriptive analytics, in addition to Descriptive and Predictive analytics.
