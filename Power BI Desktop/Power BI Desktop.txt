@@ -1,0 +1,43 @@
+Power BI Desktop
+
+
+Connecting to Data with Power BI & some limitations
+
+
+Multiple Data Sources at the Same Time
+Power BI can simultaneously connect to and read data from multiple data sources of different types. This allows data from different sources to be synthesized, analyzed, and shown together on the same visualizations of a single report.
+
+
+Data Refreshes
+Power BI can refresh the data it displays so that any changes to the data in the underlying data source are reflected.  
+Data refreshes can be done manually, with the click of a button, or scheduled to occur automatically. You can do this in Power BI Desktop by clicking the Refresh button on the top toolbar, under the Home tab.
+
+
+Reads But Doesn't Write
+While Power BI can read data from multiple or different data sources, it cannot write data (create new data or edit existing data) to a data source.
+
+
+Different Datasource Connectivity Modes
+Power BI has two modes for connecting to a data source:
+
+Import mode, which imports the underlying data from the data source, and stores it in the Power BI file (.pbix). This confers speed benefits when running reports, but increases the size of the .pbix file. Think of it as capturing a "snapshot" of the entire data in a given state. This connectivity mode is common when using a data source where data remains unchanged, such as files. 
+Direct Query Mode, on the other hand, doesn't store the underlying data in Power BI, but instead sends queries to the data source to read the data as it is needed. This confers security benefits and does not increase the size of the data model. One of the biggest benefits of the Direct Query mode is that it provides real-time information. Because the data is not imported, changes to the data source are immediately reflected on your report or workspace in Power BI. This connectivity mode is common when working with databases.
+In the video, Power BI automatically applied the import method when we connected to the Excel file. This is the default approach.
+
+
+AVOID!!!! changing the location or the name of the data sources that you've connected Power BI to! 
+
+Doing so will leave Power BI unable to locate the data source, and consequently, the connection to the data will be severed. In turn, this will cause errors in your Report when Power BI attempts to refresh the data!
+
+
+
+
+Summary
+
+• Power BI can connect to a wide range of different data sources, which includes Files (e.g. Excel Workbooks), Databases, Azure Services, Web Services, plus more!
+
+• When connecting to Excel Workbooks users have the option to connect to entire sheets or tables of data. Importing tabulated data later decreases  transformation and cleaning requirements.
+
+• Power BI has the ability to connect to multiple diverse data sources simultaneously, refresh data from the source, and supports different dataset modes. However, it is important to note that Power BI does have the limitation of writing data to a connected data source.
+
+• Don't change the location of your data once you've set up a connection to Power BI, otherwise Power BI will lose its connection to the file and its ability to refresh the data.

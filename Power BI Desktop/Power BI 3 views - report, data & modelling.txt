@@ -1,0 +1,8 @@
+Power BI 3 views - report, data & modelling
+
+
+The report view is used for creating visualisations and laying out the report.
+
+The data view is used for viewing the datasets in a tabular format.
+
+The modelling view is used for creating data models when working with multiple tables of data. A data model defines how multiple tables of data interact with each other.
